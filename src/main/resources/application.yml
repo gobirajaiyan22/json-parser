@@ -1,0 +1,3 @@
+parser:
+  combinedField: ${PARSER_COMBINED_FIELD:CountryName:IsdCode}
+  field: ${PARSER_SINGLE_FIELD:CountryName}
